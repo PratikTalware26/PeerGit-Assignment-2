@@ -1,1 +1,1 @@
-# PeerGit-Assignment-2
+# Git-assignment-2
